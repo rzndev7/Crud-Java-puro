@@ -1,0 +1,18 @@
+# Compilados
+/out/
+/bin/
+/build/
+*.class
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados
+/*.jar
+/data/*.lock
